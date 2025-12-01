@@ -1,0 +1,12 @@
+  {
+    "appclips": {
+      "apps": ["HN7D225STF.com.jrfv.JRFV4.AppClip"]
+    },
+    "applinks": {
+      "apps": [],
+      "details": [{
+        "appID": "HN7D225STF.com.jrfv.JRFV4",
+        "paths": ["/timekeeping/*"]
+      }]
+    }
+  }
